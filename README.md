@@ -19,3 +19,8 @@
    If you want to start fresh:
    - Delete the existing .git folder (if any)
    - Run git init in the new project directory
+
+6. Important (For Testing with Steamworks)
+   If you plan to test the game, go to your build output folder and create a file named steam_appid.txt
+   Inside it, write:
+   480
